@@ -96,8 +96,8 @@
     "title": "My Portfolio",
     "imageSrc": "projects/portfolio.png",
     "description": "A personal portfolio showcasing my projects and skills, built with Vite for fast development and optimized performance.",
-    "demo": "https://my-portfolio-react-4s1h.vercel.app/",
-    "source": "https://github.com/RiteshGupta19/My_Portfolio-React.git"
+    "demo": "https://my-protfolio-pi-five.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/My-Portfolio.git"
   },
   
   {
