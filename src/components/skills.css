@@ -1,0 +1,39 @@
+
+/* Skills */
+
+.skills {
+  width: 100%;
+  margin: auto;
+}
+
+.skills .items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.skills .items .item {
+  height:160px;
+  background-color: black;
+  margin: 10px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.skills .items .item img {
+  width: 70px;
+  transition: transform 0.4s ease;
+}
+
+.skills .items .item:hover img {
+  transform: scale(1.15);
+}
+
+.skills .items .item:hover {
+  box-shadow: 5px 5px 50px 5px rgba(43, 251, 255, 0.812);
+}

@@ -1,0 +1,141 @@
+
+/* Home Section */
+
+.home {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.homee{
+  padding-top: 50px;
+}
+
+.home .left {
+  background-color: rgb(40, 47, 97);
+  width: 620px;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+}
+
+
+.imgg img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: -60px;
+  
+}
+
+.imgg  img{
+  height: 290px;
+  width: 290px;
+  border: 5px solid rgb(130, 217, 160);
+  border-radius: 100%;
+  border-color: rgb(130, 217, 160);
+  box-shadow: 10px 10px 100px 50px rgb(130, 217, 160);
+  animation: blinkShadow 2s infinite; /* Apply animation */
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+/* Keyframes for the shadow blinking effect */
+@keyframes blinkShadow {
+  0% {
+    box-shadow: 10px 10px 100px 50px rgba(130, 217, 160, 0.5); /* Light shadow */
+  }
+  50% {
+    box-shadow: 10px 10px 100px 50px rgba(130, 217, 160, 1); /* Darker shadow */
+  }
+  100% {
+    box-shadow: 10px 10px 100px 50px rgba(130, 217, 160, 0.5); /* Light shadow */
+  }
+}
+.imgg img:hover {
+  transform: scale(1.1); /* Increase size by 10% */
+}
+.home .right .img img:hover {
+  transform:scale(1.1); /* Rotate and scale effect on hover */
+  border-color: rgb(255, 255, 255); /* Change border color */
+  box-shadow: 20px 20px 150px 75px rgba(130, 217, 160, 0.7); /* Enhance shadow effect */
+}
+
+.social-icons {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-container {
+  background-color: black;
+  margin: 10px;
+  height: 60px; /* Reduced height */
+  width: 60px;  /* Reduced width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 1px solid yellow; /* Reduced border size */
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.icon-container:hover {
+  background-color: rgb(40, 47, 97);
+  box-shadow: 5px 5px 10px 5px rgba(101, 175, 10, 0.5); /* Adjusted box-shadow size */
+}
+
+.icon {
+  font-size: 1.2rem; /* Adjust icon size if needed */
+  color: white; /* Adjust color as needed */
+}
+
+/* Existing CSS for social icons */
+.icon-container {
+  background-color: black;
+  margin: 10px;
+  height: 40px; /* Adjust size if needed */
+  width: 40px;  /* Adjust size if needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 1px solid yellow; /* Adjust border size */
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.icon-container:hover {
+  background-color: rgb(40, 47, 97);
+  box-shadow: 5px 5px 10px 5px rgba(101, 175, 10, 0.5); 
+}
+
+.icon {
+  font-size: 1.2rem; 
+  color: white; 
+}
+
+
+.mongodb-icon { color: #4DB33D; } 
+.express-icon { color: #000000; } 
+.react-icon { color: #61DAFB; } 
+.nodejs-icon { color: #8CC84B; } 
+
+
+.tech-icons {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 426px) {
+  .imgg img {
+    height: 210px;
+    width: 210px;
+    box-shadow: 5px 5px 50px 25px rgba(130, 217, 160, 0.5);
+    margin-right: 0;
+  }
+}

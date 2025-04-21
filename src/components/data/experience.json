@@ -1,0 +1,30 @@
+[
+  
+  {
+    "id": 1,
+    "role": "Software Developer (MERN)",
+    "organisation": "TERMSCRIPT DATA SOLUTIONS INDIA PRIVATE LIMITED ",
+    "startDate": "Sept, 2024 -",
+    "endDate": "Present",
+    "location": " IT Park, Gayatri Nagar, Nagpur.",
+    "experiences": [
+      "Developing and deploying a scalable SaaS product using the MERN stack.",
+      "Collaborating with teams to enhance app performance and optimize functionality."
+    ],
+    "imageSrc": "company/term.jpg"
+  },
+  {
+    "id": 2,
+    "role": "MERN Stack Developer Intern",
+    "organisation": "ICEICO Technologies Pvt Ltd",
+    "startDate": "Jan, 2024 -",
+    "endDate": "Jun, 2024",
+    "location": " Nandanvan, Nagpur.",
+    "experiences": [
+      "Gained practical experience in web development focusing on the MERN stack.",
+      "Contributed to live projects, enhancing skills in MongoDB, Express.js, React, and Node.js.",
+      "Participated in training sessions, building a strong foundation in MERN stack development."
+    ],
+    "imageSrc": "company/iceico.jpg"
+  }
+]

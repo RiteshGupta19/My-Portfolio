@@ -1,0 +1,28 @@
+
+
+.contact-icon {
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-icon .items {
+  background-color: black;
+  margin: 10px;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  border: 2px solid yellow;
+}
+
+.contact-icon .items:hover {
+  background-color: rgb(40, 47, 97);
+  box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+}
+
+.contact-icon .items .icons {
+  font-size: 2rem;
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "key": 1,
+    "language":"js",
+    "title": "Food Menu",
+    "imageSrc": "projects/menu.png",
+    "description": "This food menu project allows users to filter items by categories. Built with HTML, CSS, and JavaScript.",
+    "demo": " https://riteshgupta19.github.io/Food-Menu-JavaScript/",
+    "source": "https://github.com/RiteshGupta19/Food-Menu-JavaScript.git"
+  },
+  {
+    "key": 2,
+    "language":"html",
+    "title": "Youtube Clone",
+    "imageSrc": "projects/youtube.png",
+    "description": "My First Project, YouTube clone using HTML and CSS, replicating the basic layout and design.",
+    "demo": "https://riteshgupta19.github.io/Youtube-Clone/",
+    "source": "https://github.com/RiteshGupta19/Youtube-Clone.git"
+  },
+  {
+    "key": 3,
+    "language":"boot",
+    "title": "Social Media profile UI",
+    "imageSrc": "projects/profile.png",
+    "description": "A responsive social media profile UI using HTML, CSS, and Bootstrap, including a navigation bar, profile card, and widgets.",
+    "demo": "https://social-media-ui-with-bootstrap.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/Social-Media-UI-with-Bootstrap.git"
+  },
+  {
+    "key": 4,
+    "language":"react",
+    "title": "TODO List",
+    "imageSrc": "projects/todo.png",
+    "description": "Created a React To-Do List with add, edit, and delete functionality for easy task management.",
+    "demo": "https://riteshgupta19.github.io/To-do-list-using-react/",
+    "source": "https://github.com/RiteshGupta19/To-do-list-using-react.git"
+  },
+  {
+    "key": 5,
+    "language":"js",
+    "title": "Weather Application",
+    "imageSrc": "projects/Weather.png",
+    "description": "A simple weather application that fetches and displays real-time weather data using the API in JS.",
+    "demo": "https://riteshgupta19.github.io/Weather-Application-Using-JS/",
+    "source": "https://github.com/RiteshGupta19/Weather-Application-Using-JS.git"
+  },
+  {
+    "key": 6,
+    "language":"boot",
+    "title": "Webpage Template",
+    "imageSrc": "projects/book-temp.png",
+    "description": "A responsive book landing page built with HTML, CSS, and Bootstrap 5 Framework, featuring a modern design.",
+    "demo": " https://riteshgupta19.github.io/Modern-web-Template-3-boots/",
+    "source": "https://github.com/RiteshGupta19/Modern-web-Template-3-boots.git"
+  },
+  {
+    "key": 7,
+    "language":"boot",
+    "title": "Webpage Template-2",
+    "imageSrc": "projects/temp-2.png",
+    "description": "A responsive business website template created with HTML, CSS, and Bootstrap 5, featuring a modern layout. ",
+    "demo": " https://riteshgupta19.github.io/Responsive-Business-Website-Template-boots/",
+    "source": "https://github.com/RiteshGupta19/Responsive-Business-Website-Template-boots.git"
+  },
+
+  {
+    "key": 9,
+    "language":"js",
+    "title": "Password Generator",
+    "imageSrc": "projects/password.png",
+    "description": "A React password generator for secure, customizable passwords with options for length and character types.",
+    "demo": " https://riteshgupta19.github.io/Password-Generator/",
+    "source": "https://github.com/RiteshGupta19/Password-Generator.git"
+  },
+  {
+    "key": 10,
+    "language":"react",
+    "title": "Clone Website UI",
+    "imageSrc": "projects/cognisoft.png",
+    "description": "The Cognisoft Clone UI is a React-based project showcasing responsive, interactive front-end design skills.",
+    "demo": "https://cognisoft-clone-ui-using-react.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/Cognisoft-Clone-UI-using-React.git"
+  },
+  {
+    "key": 11,
+    "language":"mern",
+    "title": "Tulip School ERP",
+    "imageSrc": "projects/tulipweb.png",
+    "description": "Tulip School ERP is a MERN stack-based system that automates student admissions, attendance, fees, exams, and staff roles. Fully deployed on GCP.",
+    
+    "source": "https://github.com/RiteshGupta19/School-Website-MERN.git"
+  },
+  {
+    "key": 12,
+    "language":"react",
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal portfolio showcasing my projects and skills, built with Vite for fast development and optimized performance.",
+    "demo": "https://my-portfolio-react-4s1h.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/My_Portfolio-React.git"
+  },
+  
+  {
+    "key": 13,
+    "language":"boot",
+    "title": "Webpage Template-3",
+    "imageSrc": "projects/webpage-3.png",
+    "description": "A responsive webpage UI created using HTML, CSS, and Bootstrap, featuring About, Contact, and Footer sections.",
+    "demo": "https://modern-freelancer-portfolio-bootstrap-vf2t.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/Modern-Freelancer-portfolio-bootstrap.git"
+  },
+  {
+    "key": 16,
+    "language":"mern",
+    "title": "Tulip Parent App",
+    "imageSrc": "projects/tulipapp.png",
+    "description": "The Tulip Parent App is a mobile app built with React Native CLI, designed for parents to access academic details of their children from the Tulip School ERP system.",
+    
+    "source": "https://github.com/RiteshGupta19/School-Website-MERN.git"
+  },
+  {
+    "key": 14,
+    "language":"mern",
+    "title": "School Website",
+    "imageSrc": "projects/susanskar.png",
+    "description": "A dynamic school website for SusanSkar Vidya Mandir built with MERN and Tailwind CSS, featuring an admin dashboard for easy content management.",
+    
+    "source": "https://github.com/RiteshGupta19/School-Website-MERN.git"
+  },
+  {
+    "key": 15,
+    "language":"mern",
+    "title": "Todo App",
+    "imageSrc": "projects/todoo.png",
+    "description": "A clean and responsive task management app built with the MERN stack, allowing users to add, edit, and track daily tasks efficiently.",
+    
+    "source": "https://github.com/RiteshGupta19/Todo_docker_jenkins.git"
+  }
+
+]

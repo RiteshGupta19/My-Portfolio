@@ -1,0 +1,21 @@
+
+.edu-items{
+  background-color:rgb(40, 47, 97);
+  border: 1px solid yellow;
+  box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+  border-radius: 5px;
+  padding: 20px;
+}
+.edu-items:hover{
+   box-shadow: 5px 5px 30px 10px rgba(43, 251, 255, 0.812);
+}
+.left img{
+  height: 150px;
+  borderRadius: 10px;
+}
+@media(max-width:426px){
+  .left img{
+    width: 68vw;
+    margin-bottom: 5px;
+  }
+}

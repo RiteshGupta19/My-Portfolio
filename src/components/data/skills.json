@@ -1,0 +1,91 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title":"Express",
+    "imageSrc":"skills/express.png"
+    },
+  {
+    "title":"TailwindCSS",
+    "imageSrc":"skills/tailwind.png"
+    },
+    {
+      "title":"Bootstrap",
+    "imageSrc":"skills/bootstrap.png"
+    },
+    {
+      "title":"JAVA",
+    "imageSrc":"skills/java.jpg"
+    },
+    {
+      "title":"Postman",
+    "imageSrc":"skills/postman.png"
+    },
+    {
+      "title":"Linux",
+    "imageSrc":"skills/linux.png"
+    },
+    {
+      "title":"Python",
+    "imageSrc":"skills/python.png"
+    },
+    {
+      "title":"AWS",
+    "imageSrc":"skills/aws.png"
+    },
+    {
+      "title":"GCP",
+    "imageSrc":"skills/gcp.png"
+    },
+    {
+      "title":"Docker",
+    "imageSrc":"skills/docker.png"
+    },
+    {
+      "title":"Kubernetes",
+    "imageSrc":"skills/kube.png"
+    },
+    {
+      "title":"Terraform",
+    "imageSrc":"skills/tera.png"
+    },
+    {
+      "title":"Ansible",
+    "imageSrc":"skills/ansi.png"
+    },
+    {
+      "title":"Jenkins",
+    "imageSrc":"skills/jenkins.png"
+    },
+    {
+      "title":"Prometheus",
+    "imageSrc":"skills/promo.png"
+    },
+    {
+      "title":"Grafana",
+    "imageSrc":"skills/grafana.png"
+    }
+    
+]

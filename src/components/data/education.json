@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "degree": "Master in Computer Application (MCA)",
+    "institution": "G.H. Raisoni Institute of Engineering & Technology, Nagpur",
+    "duration": "2022 - 2024",
+    "cgpa": "8.15",
+    "imageSrc": "College/mca.png"
+  },
+  {
+    "id": 2,
+    "degree": "Bachelor of Computer Application (BCA)",
+    "institution": "G.H. Raisoni Institute of Information Technology, Nagpur",
+    "duration": "2019 - 2022",
+    "percentage": "81.07%",
+    "imageSrc": "College/bca.jpg"
+  }
+]

@@ -1,0 +1,40 @@
+
+/* Navbar Section */
+
+.nav_bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 3px solid yellow;
+  background: rgba(11, 26, 51, 0.5); 
+  backdrop-filter: blur(8px);
+}
+
+.nav_bar .nav_items,.logo {
+  padding: 16px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+}
+.logo{
+  font-size: 1.9rem;
+}
+
+.nav_bar .nav_items:hover {
+  border-bottom: 3px solid rgb(255, 255, 255);
+  color: aqua;
+  background: rgba(255, 255, 255, 0.5); 
+  backdrop-filter: blur(10px);
+}
+@media(max-width:426px){
+  .rightt{
+    display: none;
+    
+  }
+  .iconn{
+    font-size: 30px;
+  }
+}
